@@ -24,7 +24,7 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "url": "https://github.com/voidcase/IntoTheOdd-FoundryVTT",
-  "manifest": "https://raw.githubusercontent.com/voidcase/IntoTheOdd-FoundryVTT/master/system.json",
-  "download": "https://github.com/voidcase/IntoTheOdd-FoundryVTT/archive/v1.2.0.zip",
+  "manifest": "https://raw.githubusercontent.com/grimmlock/IntoTheOdd-FoundryVTT/master/system.json",
+  "download": "https://github.com/voidcase/IntoTheOdd-FoundryVTT/archive/v1.3.0.zip",
   "license": "LICENSE.txt"
 }
